@@ -108,6 +108,10 @@ img:hover {
   filter: grayscale(0);
 }
 
+a:active {
+  filter: starution(150%);
+}
+
 @media (max-width: 768px) {
   
   h1 {
