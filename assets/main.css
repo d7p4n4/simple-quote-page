@@ -1,0 +1,8 @@
+
+div {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background-image: url(assets//freedom.jpg);
+}
